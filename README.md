@@ -87,8 +87,8 @@ Busco crescer tecnicamente, aprofundar minha especialização e evoluir de forma
 
 ## 📫 Vamos conversar?
 
-- 💼 LinkedIn: *adicione aqui*
-- 📧 Email: *adicione aqui*
+- 💼 LinkedIn: 
+- 📧 Email: 
 
 ---
 
