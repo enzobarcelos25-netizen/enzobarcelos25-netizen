@@ -1,95 +1,61 @@
-# 👋 Olá, eu sou o Enzo Barcelos
+# Oi, eu sou o Enzo Barcelos
 
-🎯 Desenvolvedor Full Stack Júnior | Transição de carreira em TI  
-📍 Brasil  
-💻 Experiência corporativa em Suporte, Infraestrutura e Desenvolvimento  
-🚀 Em constante evolução
+Desenvolvedor Full Stack Junior em transicao de carreira, com base forte em suporte, infraestrutura e operacao de TI corporativa.
 
----
+Hoje meu foco esta em construir aplicacoes web uteis, com front-end claro, back-end organizado, integracoes reais e documentacao suficiente para outra pessoa entender o projeto sem adivinhar.
 
-## 🧠 Sobre mim
+## Foco atual
 
-Sou desenvolvedor **Full Stack Júnior** em transição de carreira, com base sólida em **TI corporativa**, suporte técnico e infraestrutura.  
-Ao longo da minha trajetória, atuei com **Help Desk, Field Service e ambientes corporativos**, o que me deu uma visão prática de sistemas, redes, servidores e operação real de tecnologia.
+- Desenvolvimento web com HTML, CSS, JavaScript, React, Node.js e Express.
+- Projetos ligados a TI corporativa, inventario, automacao e atendimento.
+- Evolucao de projetos de estudo para projetos com cara de produto.
+- GitHub mais organizado, com READMEs, historico claro e repositorios separados por objetivo.
 
-Em 2026, consolidei minha base em **desenvolvimento web**, focando não apenas em escrever código, mas em **entender o porquê das coisas**, debugar problemas reais, versionar corretamente e construir projetos do zero.
+## Tecnologias
 
-💡 Acredito que bons desenvolvedores não são os que sabem tudo, mas os que **sabem aprender, investigar e entregar soluções funcionais**.
+**Front-end:** HTML5, CSS3, JavaScript, React, Vite, responsividade e boas praticas de UI.
 
----
+**Back-end:** Node.js, Express, APIs REST e integracao entre front-end e servicos.
 
-## 🛠️ Tecnologias & Ferramentas
+**Dados e automacao:** SQL/MySQL, arquivos JSON, planilhas, scripts Python e fluxos de automacao.
 
-### 💻 Front-end
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- Responsividade e boas práticas de UI
+**Ferramentas:** Git, GitHub, Markdown, VS Code, Windows, Linux e nocoes de cloud/deploy.
 
-### ⚙️ Back-end
-- Node.js
-- Express
-- APIs REST
-- Integração Front ↔ Back
+## Projetos em destaque
 
-### 🗄️ Banco de Dados
-- SQL (MySQL)
-- Conceitos de modelagem de dados
+| Projeto | O que demonstra | Stack |
+| --- | --- | --- |
+| [PC Express AI CRM](https://github.com/enzobarcelos25-netizen/pc-express-ai-crm) | Landing page, diagnostico inteligente, mini CRM, automacao e cockpit de WhatsApp para captacao real de clientes. | React, Vite, Vercel, APIs |
+| [TI Inventory System 2.0](https://github.com/enzobarcelos25-netizen/ti-inventory-system-2.0) | Sistema de inventario de TI com front-end, back-end, planilha e scripts de apoio. | React, Node.js, Python |
+| [Controle de Ativos TI](https://github.com/enzobarcelos25-netizen/controle-ativos-ti) | Interface para cadastro e listagem de ativos de TI, com componentes React separados. | React, Vite |
+| [Alura Books FullStack](https://github.com/enzobarcelos25-netizen/Alura-books-FullStack) | Projeto de estudo full stack com front-end React e API Node para livros e favoritos. | React, Node.js |
 
-### 🔧 Ferramentas & Fluxo
-- Git & GitHub (branches, commits, merges, PRs)
-- Markdown
-- VS Code
-- Linux / Windows
-- Noções de Cloud e ambientes corporativos
+## Outros estudos
 
----
+- [AluraPlus](https://github.com/enzobarcelos25-netizen/AluraPlus) - pratica de HTML e CSS.
+- [Logica-Programa-o-JS](https://github.com/enzobarcelos25-netizen/Logica-Programa-o-JS) - exercicios de logica com JavaScript.
+- [Jogo-numero-aleatorio](https://github.com/enzobarcelos25-netizen/Jogo-numero-aleatorio) - jogo simples para praticar DOM e eventos.
+- [Sorteador-de-numeros](https://github.com/enzobarcelos25-netizen/Sorteador-de-numeros) - manipulacao de entradas e sorteio.
+- [amigo-secreto](https://github.com/enzobarcelos25-netizen/amigo-secreto) - projeto de sorteio com JavaScript.
 
-## 📂 Projetos em Destaque
+## Organizacao do perfil
 
-🔹 **Sistema Web Full Stack**  
-Aplicação desenvolvida do zero com front-end, back-end e banco de dados, focada em resolver um problema real.  
-👉 Repositório demonstra:
-- Organização de código
-- Versionamento correto
-- Commits descritivos
-- Resolução de bugs
-- Evolução contínua do projeto
+Meus repositorios estao sendo organizados em tres linhas:
 
-🔹 **Projetos de Estudo Aplicado**  
-Projetos que vão além de tutorial, criados para:
-- Fixar conceitos
-- Explorar erros reais
-- Praticar lógica, estrutura de dados e integração
+- **Produtos e portfolio:** projetos com problema real, documentacao e caminho de evolucao.
+- **TI corporativa:** inventario, ativos, impressoras, automacao e ferramentas internas.
+- **Estudos aplicados:** projetos de curso e exercicios usados para consolidar fundamentos.
 
-*(Veja os repositórios fixados abaixo 👇)*
+## GitHub Stats
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enzobarcelos25-netizen&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzobarcelos25-netizen&layout=compact&theme=tokyonight)
 
-## 📊 GitHub Stats
+## Objetivo profissional
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight)
+Atuar como Desenvolvedor Junior, contribuindo com codigo funcional, aprendizado rapido, visao pratica de suporte/infraestrutura e vontade real de transformar problemas do dia a dia em sistemas simples de usar.
 
----
+## Contato
 
-## 🎯 Objetivo Profissional
-
-Atuar como **Desenvolvedor Júnior**, contribuindo com:
-- Código limpo e funcional
-- Capacidade de aprendizado rápido
-- Visão de produto e negócio
-- Experiência prévia em ambientes corporativos de TI
-
-Busco crescer tecnicamente, aprofundar minha especialização e evoluir de forma consistente na carreira de desenvolvimento.
-
----
-
-## 📫 Vamos conversar?
-
-- 💼 LinkedIn: 
-- 📧 Email: 
-
----
-
-⭐ Se algum projeto te ajudou ou chamou atenção, fique à vontade para deixar uma estrela!
+- Email: [enzobarcelos25@gmail.com](mailto:enzobarcelos25@gmail.com)
+- GitHub: [enzobarcelos25-netizen](https://github.com/enzobarcelos25-netizen)
