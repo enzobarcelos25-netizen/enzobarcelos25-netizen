@@ -46,6 +46,8 @@ Meus repositorios estao sendo organizados em tres linhas:
 - **TI corporativa:** inventario, ativos, impressoras, automacao e ferramentas internas.
 - **Estudos aplicados:** projetos de curso e exercicios usados para consolidar fundamentos.
 
+Veja tambem o [mapa completo dos repositorios](https://github.com/enzobarcelos25-netizen/enzobarcelos25-netizen/blob/main/REPOSITORIES.md).
+
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enzobarcelos25-netizen&show_icons=true&theme=tokyonight)
