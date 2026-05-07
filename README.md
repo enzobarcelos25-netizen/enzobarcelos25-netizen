@@ -1,63 +1,69 @@
-# Oi, eu sou o Enzo Barcelos
+<h1 align="center">Enzo Barcelos</h1>
 
-Desenvolvedor Full Stack Junior em transicao de carreira, com base forte em suporte, infraestrutura e operacao de TI corporativa.
+<p align="center">
+  <strong>Desenvolvedor Full Stack Junior</strong><br />
+  TI corporativa, suporte, infraestrutura e desenvolvimento web aplicado a problemas reais.
+</p>
 
-Hoje meu foco esta em construir aplicacoes web uteis, com front-end claro, back-end organizado, integracoes reais e documentacao suficiente para outra pessoa entender o projeto sem adivinhar.
+<p align="center">
+  <a href="mailto:enzobarcelos25@gmail.com">Email</a> ·
+  <a href="https://github.com/enzobarcelos25-netizen">GitHub</a> ·
+  <a href="https://pc-express-ai-crm.vercel.app/">PC Express AI CRM</a>
+</p>
 
-## Foco atual
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-111?style=for-the-badge&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Vite-111?style=for-the-badge&logo=vite" alt="Vite" />
+  <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python" alt="Python" />
+</p>
 
-- Desenvolvimento web com HTML, CSS, JavaScript, React, Node.js e Express.
-- Projetos ligados a TI corporativa, inventario, automacao e atendimento.
-- Evolucao de projetos de estudo para projetos com cara de produto.
-- GitHub mais organizado, com READMEs, historico claro e repositorios separados por objetivo.
+---
 
-## Tecnologias
+## Perfil profissional
 
-**Front-end:** HTML5, CSS3, JavaScript, React, Vite, responsividade e boas praticas de UI.
+Venho de uma base pratica em suporte tecnico, field service, redes e operacao de TI. Hoje transformo essa experiencia em projetos web com foco em utilidade real: sistemas de inventario, paineis internos, automacao de atendimento, landing pages e pequenas APIs.
 
-**Back-end:** Node.js, Express, APIs REST e integracao entre front-end e servicos.
+Meu objetivo e evoluir como desenvolvedor junior entregando codigo simples de manter, interfaces claras e solucoes que resolvem problemas do dia a dia.
 
-**Dados e automacao:** SQL/MySQL, arquivos JSON, planilhas, scripts Python e fluxos de automacao.
+## Projetos principais
 
-**Ferramentas:** Git, GitHub, Markdown, VS Code, Windows, Linux e nocoes de cloud/deploy.
-
-## Projetos em destaque
-
-| Projeto | O que demonstra | Stack |
+| Projeto | Foco | Por que vale olhar |
 | --- | --- | --- |
-| [PC Express AI CRM](https://github.com/enzobarcelos25-netizen/pc-express-ai-crm) | Landing page, diagnostico inteligente, mini CRM, automacao e cockpit de WhatsApp para captacao real de clientes. | React, Vite, Vercel, APIs |
-| [TI Inventory System 2.0](https://github.com/enzobarcelos25-netizen/ti-inventory-system-2.0) | Sistema de inventario de TI com front-end, back-end, planilha e scripts de apoio. | React, Node.js, Python |
-| [Controle de Ativos TI](https://github.com/enzobarcelos25-netizen/controle-ativos-ti) | Interface para cadastro e listagem de ativos de TI, com componentes React separados. | React, Vite |
-| [Alura Books FullStack](https://github.com/enzobarcelos25-netizen/Alura-books-FullStack) | Projeto de estudo full stack com front-end React e API Node para livros e favoritos. | React, Node.js |
+| [PC Express AI CRM](https://github.com/enzobarcelos25-netizen/pc-express-ai-crm) | Produto real / CRM | Landing page, diagnostico inteligente, captacao de leads, automacao e cockpit de WhatsApp para um negocio real. |
+| [TI Inventory System 2.0](https://github.com/enzobarcelos25-netizen/ti-inventory-system-2.0) | Sistema full stack | Inventario de TI com front-end, back-end, scripts Python e organizacao de dados. |
+| [Painel de Impressoras](https://github.com/enzobarcelos25-netizen/painel-impressoras) | Ferramenta interna de TI | Painel para acompanhar impressoras, status, logs, prioridades e base para verificacao via ping. |
+| [Controle de Ativos TI](https://github.com/enzobarcelos25-netizen/controle-ativos-ti) | React aplicado a TI | Cadastro e listagem de ativos com componentes separados e dados mockados. |
+| [Alura Books FullStack](https://github.com/enzobarcelos25-netizen/Alura-books-FullStack) | Estudo full stack | Front-end React integrado a API Node/Express com rotas, controladores e servicos. |
 
-## Outros estudos
+## Stack atual
 
-- [AluraPlus](https://github.com/enzobarcelos25-netizen/AluraPlus) - pratica de HTML e CSS.
-- [Logica-Programa-o-JS](https://github.com/enzobarcelos25-netizen/Logica-Programa-o-JS) - exercicios de logica com JavaScript.
-- [Jogo-numero-aleatorio](https://github.com/enzobarcelos25-netizen/Jogo-numero-aleatorio) - jogo simples para praticar DOM e eventos.
-- [Sorteador-de-numeros](https://github.com/enzobarcelos25-netizen/Sorteador-de-numeros) - manipulacao de entradas e sorteio.
-- [amigo-secreto](https://github.com/enzobarcelos25-netizen/amigo-secreto) - projeto de sorteio com JavaScript.
+**Front-end:** HTML5, CSS3, JavaScript, React, Vite, responsividade e organizacao de componentes.
 
-## Organizacao do perfil
+**Back-end:** Node.js, Express, APIs REST, JSON e integracao entre front-end e servicos.
 
-Meus repositorios estao sendo organizados em tres linhas:
+**TI e automacao:** suporte tecnico, inventario, scripts Python, planilhas, redes, Windows, Linux e ferramentas internas.
 
-- **Produtos e portfolio:** projetos com problema real, documentacao e caminho de evolucao.
-- **TI corporativa:** inventario, ativos, impressoras, automacao e ferramentas internas.
-- **Estudos aplicados:** projetos de curso e exercicios usados para consolidar fundamentos.
+**Fluxo de trabalho:** Git, GitHub, Markdown, documentacao de projetos, deploy em Vercel e melhoria continua.
 
-Veja tambem o [mapa completo dos repositorios](https://github.com/enzobarcelos25-netizen/enzobarcelos25-netizen/blob/main/REPOSITORIES.md).
+## Como estou organizando este GitHub
+
+- Projetos de portfolio ficam documentados com objetivo, stack, como rodar e proximos passos.
+- Projetos de estudo continuam publicos, mas identificados como estudo aplicado.
+- Repositorios de TI mostram minha experiencia pratica fora do tutorial.
+- O [mapa completo dos repositorios](https://github.com/enzobarcelos25-netizen/enzobarcelos25-netizen/blob/main/REPOSITORIES.md) separa portfolio, TI corporativa e estudos.
+
+## Agora em evolucao
+
+- Melhorar o PC Express AI CRM com banco de dados, login e dashboard real.
+- Evoluir projetos de TI para ferramentas internas mais completas.
+- Adicionar prints e demos nos repositorios principais.
+- Consolidar Node.js, React e boas praticas de API.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enzobarcelos25-netizen&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzobarcelos25-netizen&layout=compact&theme=tokyonight)
-
-## Objetivo profissional
-
-Atuar como Desenvolvedor Junior, contribuindo com codigo funcional, aprendizado rapido, visao pratica de suporte/infraestrutura e vontade real de transformar problemas do dia a dia em sistemas simples de usar.
-
-## Contato
-
-- Email: [enzobarcelos25@gmail.com](mailto:enzobarcelos25@gmail.com)
-- GitHub: [enzobarcelos25-netizen](https://github.com/enzobarcelos25-netizen)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=enzobarcelos25-netizen&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzobarcelos25-netizen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
