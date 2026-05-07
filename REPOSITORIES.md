@@ -13,7 +13,7 @@ Este arquivo organiza os repositorios do perfil por finalidade. A ideia e deixar
 
 | Repositorio | Papel | Prioridade |
 | --- | --- | --- |
-| [ti-inventory-system-2.0](https://github.com/enzobarcelos25-netizen/ti-inventory-system-2.0) | Sistema full stack de inventario de TI. | Alta |
+| [ti-inventory-system-2.0](https://github.com/enzobarcelos25-netizen/ti-inventory-system-2.0) | Sistema full stack de inventario de TI, agora sem `node_modules` versionado. | Alta |
 | [controle-ativos-ti](https://github.com/enzobarcelos25-netizen/controle-ativos-ti) | Front-end React para controle de ativos. | Media |
 | [painel-impressoras](https://github.com/enzobarcelos25-netizen/painel-impressoras) | Projeto voltado a controle/visualizacao de impressoras. | Media |
 
@@ -42,10 +42,16 @@ Este arquivo organiza os repositorios do perfil por finalidade. A ideia e deixar
 | --- | --- | --- |
 | [Projeto-Java](https://github.com/enzobarcelos25-netizen/Projeto-Java) | Espaco para estudos Java. | Adicionar primeiro projeto em `src/`. |
 
+## O que ja foi aplicado
+
+- README do perfil organizado.
+- READMEs criados ou melhorados nos repositorios principais e de estudo.
+- `ti-inventory-system-2.0` limpo: `backend/node_modules` removido e `.gitignore` adicionado.
+
 ## Ordem sugerida de arrumacao
 
-1. Fixar no perfil: `pc-express-ai-crm`, `ti-inventory-system-2.0`, `controle-ativos-ti`, `Alura-books-FullStack`, `portfolio-html-css-js` e `painel-impressoras`.
-2. Adicionar descricao curta e topicos nos repositorios principais pelo painel do GitHub.
-3. Remover arquivos gerados/versionados indevidos, especialmente `node_modules`, em repositorios que ainda tenham isso.
+1. Fixar no perfil: `pc-express-ai-crm`, `ti-inventory-system-2.0`, `painel-impressoras`, `controle-ativos-ti`, `Alura-books-FullStack` e `AluraPlus`.
+2. Se quiser usar `portfolio-html-css-js` como vitrine, tornar o repositorio publico antes de fixar.
+3. Adicionar descricao curta e topicos nos repositorios principais pelo painel do GitHub.
 4. Colocar prints ou GIFs nos projetos de interface.
 5. Manter repositorios de estudo publicos, mas com README deixando claro que sao estudos.
